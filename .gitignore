@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+
+BUI/BUI/Debug
+*.opensdf
+*.filters
+*.sdf
